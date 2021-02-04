@@ -1,6 +1,6 @@
 [package]
 name = "xorio"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["Zicklag <zicklag@katharostech.com>"]
 edition = "2018"
 license-file = "LICENSE.md"
