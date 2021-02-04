@@ -3,5 +3,16 @@ name = "xorio"
 version = "0.1.0"
 authors = ["Zicklag <zicklag@katharostech.com>"]
 edition = "2018"
+license-file = "LICENSE.md"
+readme = "README.md"
+
+description = "A crate for XOR-ing Read/Write streams"
+repository = "https://github.com/katharostech/xorio"
+documentation = "https://docs.rs/xorio"
+keywords = ["xor", "stream", "read", "write", "io"]
+categories = [
+    "cryptography",
+    "encoding"
+]
 
 [dependencies]
